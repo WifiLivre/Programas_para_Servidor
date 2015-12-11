@@ -1,0 +1,6 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+08/02/15 23:42;-;14.2 Mbit/s;17.09 ms;6.75 ms;-;-;0.0 %;64.12 ms;PTT Metro de Sao Paulo - Nodo 2;;;;;
+08/02/15 22:42;-;1.53 Mbit/s;10.48 ms;9.02 ms;-;-;0.76 %;220.78 ms;PTT Metro de Sao Paulo - Nodo 1;;;;;
+;;;;;;;;;;08/02/15 22:56;191.04 ms;172.16.98.1;true;
+;;;;;;;;;;08/02/15 21:56;104.65 ms;172.16.98.1;true;
+;;;;;;;;;;08/02/15 20:56;737.95 ms;172.16.98.1;true;

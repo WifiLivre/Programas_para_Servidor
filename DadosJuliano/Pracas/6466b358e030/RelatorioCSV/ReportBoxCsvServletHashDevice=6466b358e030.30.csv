@@ -1,0 +1,27 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+22/01/15 10:54;17.15 Mbit/s;36.94 Mbit/s;< 1 ms;12.64 ms;18.69 Mbit/s;36.9 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+22/01/15 04:55;34.13 Mbit/s;43.74 Mbit/s;5.48 ms;1.32 ms;37.6 Mbit/s;44.24 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+21/01/15 07:54;9.28 Mbit/s;37.43 Mbit/s;1.0 ms;< 1 ms;10.11 Mbit/s;40.21 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+21/01/15 04:55;30.96 Mbit/s;39.62 Mbit/s;< 1 ms;4.0 ms;34.22 Mbit/s;42.79 Mbit/s;3.5 %;3.5 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+21/01/15 01:54;31.57 Mbit/s;40.53 Mbit/s;23.97 ms;< 1 ms;34.75 Mbit/s;43.46 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+;;;;;;;;;;23/01/15 00:08;11.96 ms;null;false;
+;;;;;;;;;;22/01/15 13:08;55.08 ms;null;false;
+;;;;;;;;;;22/01/15 10:08;7.01 ms;null;false;
+;;;;;;;;;;22/01/15 05:08;11.41 ms;null;false;
+;;;;;;;;;;21/01/15 23:08;3.64 ms;null;false;
+;;;;;;;;;;21/01/15 20:08;3.64 ms;null;false;
+;;;;;;;;;;21/01/15 19:08;4.06 ms;null;false;
+;;;;;;;;;;21/01/15 14:08;6.06 ms;null;false;
+;;;;;;;;;;21/01/15 13:08;61.1 ms;null;false;
+;;;;;;;;;;21/01/15 12:08;15.72 ms;null;false;
+;;;;;;;;;;21/01/15 11:08;3.65 ms;null;false;
+;;;;;;;;;;21/01/15 10:08;3.26 ms;null;false;
+;;;;;;;;;;21/01/15 09:08;4.32 ms;null;false;
+;;;;;;;;;;21/01/15 08:08;3.17 ms;null;false;
+;;;;;;;;;;21/01/15 07:08;12.42 ms;null;false;
+;;;;;;;;;;21/01/15 06:08;11.53 ms;null;false;
+;;;;;;;;;;21/01/15 05:08;3.95 ms;null;false;
+;;;;;;;;;;21/01/15 04:08;8.25 ms;null;false;
+;;;;;;;;;;21/01/15 03:08;4.51 ms;null;false;
+;;;;;;;;;;21/01/15 02:08;5.67 ms;null;false;
+;;;;;;;;;;21/01/15 01:08;3.32 ms;null;false;

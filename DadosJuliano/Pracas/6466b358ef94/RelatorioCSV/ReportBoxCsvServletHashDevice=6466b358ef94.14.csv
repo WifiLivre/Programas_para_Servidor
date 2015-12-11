@@ -1,0 +1,5 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+05/01/15 16:54;10.91 Mbit/s;9.88 Mbit/s;4.52 ms;< 1 ms;9.45 Mbit/s;10.5 Mbit/s;1.36 %;1.36 %;PTT Metro de Curitiba;;;;;
+;;;;;;;;;;06/01/15 10:54;11.05 ms;null;false;
+;;;;;;;;;;06/01/15 09:54;2.49 ms;null;false;
+;;;;;;;;;;05/01/15 16:54;23.29 ms;null;false;

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<lastupdate>1446260466</lastupdate> <!-- 2015-10-31 01:01:06 BRST -->
+		<name> traffic_in </name>
+		<last_ds>4019478105</last_ds>
+		<name> traffic_out </name>
+		<last_ds>3018866538</last_ds>
+<!DOCTYPE rrd SYSTEM "http://oss.oetiker.ch/rrdtool/rrdtool.dtd">
+<!-- Round Robin Database Dump -->
+</rrd>
+<rrd>
+	<lastupdate>1446260466</lastupdate> <!-- 2015-10-31 01:01:06 BRST -->
+		<name> traffic_in </name>
+		<last_ds>4030660819</last_ds>
+		<name> traffic_out </name>
+		<last_ds>3883429869</last_ds>
+</rrd>

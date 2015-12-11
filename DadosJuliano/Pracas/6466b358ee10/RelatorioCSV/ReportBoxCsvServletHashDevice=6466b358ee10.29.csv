@@ -1,0 +1,27 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+21/01/15 23:48;54.26 Mbit/s;48.82 Mbit/s;< 1 ms;< 1 ms;59.44 Mbit/s;51.69 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+21/01/15 22:48;40.83 Mbit/s;48.66 Mbit/s;5.43 ms;< 1 ms;43.68 Mbit/s;52.44 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+21/01/15 21:48;51.84 Mbit/s;51.22 Mbit/s;< 1 ms;< 1 ms;56.72 Mbit/s;54.82 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3 - PIX ALOG Tambore;;;;;
+21/01/15 20:48;41.4 Mbit/s;51.06 Mbit/s;21.26 ms;1.3 ms;45.46 Mbit/s;53.98 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+21/01/15 19:48;22.94 Mbit/s;35.17 Mbit/s;11.21 ms;12.18 ms;25.27 Mbit/s;38.07 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3;;;;;
+21/01/15 18:48;12.09 Mbit/s;39.34 Mbit/s;< 1 ms;1.3 ms;13.26 Mbit/s;40.88 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+21/01/15 17:48;33.4 Mbit/s;32.9 Mbit/s;27.75 ms;1.2 ms;36.71 Mbit/s;31.78 Mbit/s;2.04 %;2.04 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+21/01/15 16:48;25.23 Mbit/s;36.71 Mbit/s;< 1 ms;16.28 ms;27.71 Mbit/s;29.78 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+21/01/15 15:48;9.57 Mbit/s;34.72 Mbit/s;12.29 ms;1.53 ms;10.52 Mbit/s;27.7 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+21/01/15 14:48;11.53 Mbit/s;38.89 Mbit/s;22.73 ms;2.37 ms;11.83 Mbit/s;7.08 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+21/01/15 13:48;33.42 Mbit/s;44.33 Mbit/s;1.11 ms;< 1 ms;36.08 Mbit/s;46.29 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+21/01/15 12:48;16.47 Mbit/s;19.86 Mbit/s;23.9 ms;16.04 ms;7.12 Mbit/s;8.32 Mbit/s;1.35 %;1.35 %;PTT Metro de Sao Paulo - Nodo 2;;;;;
+21/01/15 11:48;43.08 Mbit/s;43.65 Mbit/s;1.25 ms;< 1 ms;43.03 Mbit/s;45.7 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3 - PIX ALOG Tambore;;;;;
+;;;;;;;;;;22/01/15 00:02;2.72 ms;null;false;
+;;;;;;;;;;21/01/15 23:02;1.6 ms;null;false;
+;;;;;;;;;;21/01/15 22:02;1.9 ms;null;false;
+;;;;;;;;;;21/01/15 21:02;1.48 ms;null;false;
+;;;;;;;;;;21/01/15 20:02;8.45 ms;null;false;
+;;;;;;;;;;21/01/15 19:02;1.26 ms;null;false;
+;;;;;;;;;;21/01/15 18:02;8.27 ms;null;false;
+;;;;;;;;;;21/01/15 17:02;1.83 ms;null;false;
+;;;;;;;;;;21/01/15 16:02;2.0 ms;null;false;
+;;;;;;;;;;21/01/15 15:02;78.42 ms;null;false;
+;;;;;;;;;;21/01/15 14:02;2.13 ms;null;false;
+;;;;;;;;;;21/01/15 13:02;170.28 ms;null;false;
+;;;;;;;;;;21/01/15 12:02;7.34 ms;null;false;

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rrd SYSTEM "http://oss.oetiker.ch/rrdtool/rrdtool.dtd">
+<!-- Round Robin Database Dump -->
+<rrd>
+	<lastupdate>1446260531</lastupdate> <!-- 2015-10-31 01:02:11 BRST -->
+		<name> ping </name>
+		<last_ds>3.01</last_ds>
+</rrd>

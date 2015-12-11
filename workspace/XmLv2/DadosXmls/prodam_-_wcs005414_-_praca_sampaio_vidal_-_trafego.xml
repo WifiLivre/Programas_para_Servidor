@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rrd SYSTEM "http://oss.oetiker.ch/rrdtool/rrdtool.dtd">
+<!-- Round Robin Database Dump -->
+<rrd>
+	<lastupdate>1446260536</lastupdate> <!-- 2015-10-31 01:02:16 BRST -->
+		<name> traffic_in </name>
+		<last_ds>40355545</last_ds>
+		<name> traffic_out </name>
+		<last_ds>2016307882</last_ds>
+</rrd>

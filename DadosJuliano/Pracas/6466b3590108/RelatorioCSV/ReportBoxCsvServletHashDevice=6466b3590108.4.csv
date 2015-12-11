@@ -1,0 +1,23 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+26/12/14 05:30;-;-;-;-;-;-;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+26/12/14 03:31;-;-;357.63 ms;< 1 ms;-;-;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+26/12/14 01:28;-;-;-;-;-;-;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+;;;;;;;;;;26/12/14 19:39;3339.54 ms;null;false;
+;;;;;;;;;;26/12/14 19:39;3339.54 ms;null;false;
+;;;;;;;;;;26/12/14 16:39;6295.37 ms;null;false;
+;;;;;;;;;;26/12/14 16:39;6295.37 ms;null;false;
+;;;;;;;;;;26/12/14 15:39;4923.05 ms;null;false;
+;;;;;;;;;;26/12/14 15:39;4923.05 ms;null;false;
+;;;;;;;;;;26/12/14 13:39;1006.01 ms;null;false;
+;;;;;;;;;;26/12/14 03:39;1598.52 ms;null;false;
+;;;;;;;;;;26/12/14 02:39;8167.14 ms;null;false;
+;;;;;;;;;;25/12/14 19:39;9886.42 ms;null;false;
+;;;;;;;;;;25/12/14 17:39;9376.5 ms;null;false;
+;;;;;;;;;;25/12/14 16:39;10190.07 ms;null;false;
+;;;;;;;;;;25/12/14 14:39;9936.24 ms;null;false;
+;;;;;;;;;;25/12/14 13:39;1609.79 ms;null;false;
+;;;;;;;;;;25/12/14 11:39;7044.8 ms;null;false;
+;;;;;;;;;;25/12/14 09:39;2181.33 ms;null;false;
+;;;;;;;;;;25/12/14 07:39;4869.88 ms;null;false;
+;;;;;;;;;;25/12/14 06:39;8250.82 ms;null;false;
+;;;;;;;;;;25/12/14 00:39;1006.85 ms;null;false;

@@ -1,0 +1,6 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+19/01/15 21:34;19.24 Mbit/s;13.06 Mbit/s;11.65 ms;6.96 ms;22.75 Mbit/s;13.36 Mbit/s;0.76 %;0.76 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+;;;;;;;;;;19/01/15 23:48;7.39 ms;null;false;
+;;;;;;;;;;19/01/15 22:48;7.45 ms;null;false;
+;;;;;;;;;;19/01/15 21:48;13.26 ms;null;false;
+;;;;;;;;;;19/01/15 20:48;21.2 ms;null;false;

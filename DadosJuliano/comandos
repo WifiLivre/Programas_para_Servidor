@@ -1,0 +1,11 @@
+﻿up
+
+download de arquivos texto SimetBox utilizando SimetBoxCookies.jar 
+./juliano/DadosJuliano/simetBox
+
+
+Inserindo na base de dados os arquivos de texto utilizando SimetBoxDB.jar
+java -jar ./juliano/DadosJuliano/SimetBoxDB.jar
+
+Inserindo os XMLs de dados das praças utilizando wifiXmls.jar
+./juliano/DadosJuliano/wifiXmls

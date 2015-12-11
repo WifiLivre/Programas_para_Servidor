@@ -1,0 +1,16 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+10/01/15 10:01;19.73 Mbit/s;20.13 Mbit/s;1.88 ms;2.98 ms;18.46 Mbit/s;19.56 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3;;;;;
+10/01/15 09:01;17.44 Mbit/s;11.72 Mbit/s;3.39 ms;7.07 ms;19.68 Mbit/s;10.95 Mbit/s;1.37 %;1.37 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+10/01/15 08:01;20.59 Mbit/s;19.81 Mbit/s;1.27 ms;8.82 ms;23.37 Mbit/s;20.27 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3;;;;;
+10/01/15 07:02;20.78 Mbit/s;20.26 Mbit/s;< 1 ms;2.19 ms;23.09 Mbit/s;16.86 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3 - PIX ALOG Tambore;;;;;
+10/01/15 06:01;14.13 Mbit/s;23.28 Mbit/s;< 1 ms;2.08 ms;15.67 Mbit/s;21.13 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+10/01/15 05:01;-;21.61 Mbit/s;< 1 ms;1.29 ms;-;-;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2;;;;;
+10/01/15 04:01;24.69 Mbit/s;23.91 Mbit/s;1.59 ms;1.02 ms;24.95 Mbit/s;22.36 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+10/01/15 03:01;24.31 Mbit/s;24.64 Mbit/s;< 1 ms;< 1 ms;25.03 Mbit/s;21.76 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+10/01/15 02:01;23.81 Mbit/s;22.76 Mbit/s;< 1 ms;3.71 ms;24.99 Mbit/s;21.85 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+;;;;;;;;;;10/01/15 12:15;9.24 ms;null;false;
+;;;;;;;;;;10/01/15 11:15;25.25 ms;null;false;
+;;;;;;;;;;10/01/15 04:15;4.03 ms;null;false;
+;;;;;;;;;;10/01/15 03:15;5.04 ms;null;false;
+;;;;;;;;;;10/01/15 02:15;5.56 ms;null;false;
+;;;;;;;;;;10/01/15 00:15;4.14 ms;null;false;

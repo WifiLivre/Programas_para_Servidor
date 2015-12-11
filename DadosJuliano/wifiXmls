@@ -1,0 +1,19 @@
+#!/bin/bash
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+
+pkill -f wifiXmls.jar
+
+cd home
+cd ufabc
+cd juliano
+cd DadosJuliano
+
+java -jar ./wifiXmls.jar
+

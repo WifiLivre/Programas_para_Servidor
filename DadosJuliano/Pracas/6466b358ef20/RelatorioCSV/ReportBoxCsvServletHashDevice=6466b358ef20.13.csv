@@ -1,0 +1,15 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+05/01/15 23:25;26.14 Mbit/s;11.09 Mbit/s;< 1 ms;< 1 ms;23.49 Mbit/s;11.92 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+05/01/15 22:25;25.1 Mbit/s;18.81 Mbit/s;2.83 ms;6.87 ms;19.99 Mbit/s;19.87 Mbit/s;0.0 %;0.0 %;PTT Metro do Rio de Janeiro - Nodo 1;;;;;
+05/01/15 21:25;11.47 Mbit/s;17.16 Mbit/s;7.56 ms;< 1 ms;12.6 Mbit/s;17.57 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3;;;;;
+05/01/15 20:25;8.54 Mbit/s;1.75 Mbit/s;38.69 ms;3.18 ms;7.77 Mbit/s;1.86 Mbit/s;0.68 %;0.68 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+05/01/15 19:25;7.79 Mbit/s;23.26 Mbit/s;< 1 ms;2.54 ms;8.56 Mbit/s;24.26 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+05/01/15 18:25;10.95 Mbit/s;16.24 Mbit/s;2.84 ms;6.41 ms;11.85 Mbit/s;14.23 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+05/01/15 17:25;18.98 Mbit/s;14.38 Mbit/s;31.19 ms;1.38 ms;15.47 Mbit/s;15.51 Mbit/s;4.26 %;4.26 %;PTT Metro de Curitiba;;;;;
+;;;;;;;;;;05/01/15 23:39;9.6 ms;null;false;
+;;;;;;;;;;05/01/15 22:39;72.42 ms;null;false;
+;;;;;;;;;;05/01/15 21:39;15.71 ms;null;false;
+;;;;;;;;;;05/01/15 20:39;30.27 ms;null;false;
+;;;;;;;;;;05/01/15 19:39;20.4 ms;null;false;
+;;;;;;;;;;05/01/15 18:39;6.95 ms;null;false;
+;;;;;;;;;;05/01/15 17:39;2.33 ms;null;false;

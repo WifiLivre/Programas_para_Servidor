@@ -1,0 +1,22 @@
+#!/bin/bash
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+
+pkill -f SimetBoxCookies.jar
+pkill -f email.jar
+pkill -f backup.jar
+pkill -f emailLog.jar
+pkill -f SimetBoxDB.jar
+
+cd home
+cd ufabc
+cd juliano
+cd DadosJuliano
+
+java -jar ./SimetBoxCookies.jar

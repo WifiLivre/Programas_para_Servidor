@@ -1,0 +1,14 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+19/01/15 23:42;6.79 Mbit/s;4.5 Mbit/s;1.24 ms;1.47 ms;7.43 Mbit/s;4.72 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+19/01/15 22:42;6.04 Mbit/s;3.81 Mbit/s;1.21 ms;13.2 ms;6.69 Mbit/s;4.09 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2;;;;;
+19/01/15 21:42;4.37 Mbit/s;2.78 Mbit/s;1.38 ms;< 1 ms;4.88 Mbit/s;1.94 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+19/01/15 20:42;4.39 Mbit/s;4.47 Mbit/s;< 1 ms;3.21 ms;4.84 Mbit/s;4.09 Mbit/s;0.68 %;0.68 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+19/01/15 19:42;3.81 Mbit/s;3.5 Mbit/s;< 1 ms;2.48 ms;4.72 Mbit/s;3.58 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+19/01/15 15:55;25.29 Mbit/s;23.21 Mbit/s;< 1 ms;1.9 ms;27.79 Mbit/s;24.99 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+19/01/15 15:52;25.38 Mbit/s;19.02 Mbit/s;< 1 ms;1.22 ms;27.77 Mbit/s;20.37 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3 - PIX ALOG Tambore;;;;;
+19/01/15 15:48;24.86 Mbit/s;24.8 Mbit/s;< 1 ms;1.0 ms;27.02 Mbit/s;23.73 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+;;;;;;;;;;19/01/15 23:56;8.29 ms;null;false;
+;;;;;;;;;;19/01/15 22:56;3.4 ms;null;false;
+;;;;;;;;;;19/01/15 21:56;3.63 ms;null;false;
+;;;;;;;;;;19/01/15 20:56;5.83 ms;null;false;
+;;;;;;;;;;19/01/15 18:56;3.26 ms;null;false;

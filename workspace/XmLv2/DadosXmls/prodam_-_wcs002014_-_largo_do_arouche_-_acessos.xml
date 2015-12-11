@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rrd SYSTEM "http://oss.oetiker.ch/rrdtool/rrdtool.dtd">
+<!-- Round Robin Database Dump -->
+<rrd>
+	<lastupdate>1446260474</lastupdate> <!-- 2015-10-31 01:01:14 BRST -->
+		<name> acessos </name>
+		<last_ds>82</last_ds>
+</rrd>

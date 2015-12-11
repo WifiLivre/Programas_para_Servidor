@@ -1,0 +1,10 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+21/01/15 23:49;15.15 Mbit/s;36.54 Mbit/s;< 1 ms;< 1 ms;-;24.94 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+21/01/15 20:49;25.91 Mbit/s;31.84 Mbit/s;< 1 ms;1.65 ms;-;31.21 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+21/01/15 14:49;15.28 Mbit/s;29.55 Mbit/s;< 1 ms;< 1 ms;23.87 Mbit/s;24.16 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+21/01/15 14:35;29.42 Mbit/s;32.49 Mbit/s;< 1 ms;9.53 ms;-;29.92 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+;;;;;;;;;;21/01/15 23:03;3.68 ms;null;false;
+;;;;;;;;;;21/01/15 22:03;15.13 ms;null;false;
+;;;;;;;;;;21/01/15 21:03;7.68 ms;null;false;
+;;;;;;;;;;21/01/15 18:03;9.56 ms;null;false;
+;;;;;;;;;;21/01/15 16:03;193.56 ms;null;false;

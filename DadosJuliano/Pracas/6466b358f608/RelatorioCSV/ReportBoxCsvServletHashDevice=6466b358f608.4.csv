@@ -1,0 +1,28 @@
+dataMain;tcpDownload;tcpUpload;jitterDownload;jitterUpload;udpDownload;udpUpload;perdaPacotes;latencia;servidor;dataPing;ping;destination;isGw
+25/12/14 15:08;2.06 Mbit/s;606.89 kbit/s;90.48 ms;40.25 ms;2.36 Mbit/s;625.14 kbit/s;18.52 %;18.52 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+25/12/14 14:07;439.14 kbit/s;2.37 Mbit/s;< 1 ms;5.65 ms;-;265.71 kbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+25/12/14 13:08;1.86 Mbit/s;621.14 kbit/s;1.06 ms;15.91 ms;1.9 Mbit/s;667.76 kbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+25/12/14 12:07;2.69 Mbit/s;2.39 Mbit/s;1.17 ms;10.65 ms;-;456.28 kbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+25/12/14 11:07;-;-;-;-;-;-;24.49 %;24.49 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+25/12/14 10:09;1.68 Mbit/s;986.94 kbit/s;1.25 ms;5.8 ms;1.82 Mbit/s;889.15 kbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 4;;;;;
+25/12/14 09:08;663.45 kbit/s;492.0 kbit/s;10.43 ms;45.4 ms;800.0 kbit/s;347.32 kbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - PIX ALOG Tambore;;;;;
+25/12/14 08:07;2.35 Mbit/s;379.57 kbit/s;2.22 ms;2.77 ms;1.69 Mbit/s;401.99 kbit/s;1.37 %;1.37 %;PTT Metro de Campinas;;;;;
+25/12/14 07:07;2.88 Mbit/s;813.88 kbit/s;< 1 ms;15.11 ms;2.33 Mbit/s;869.96 kbit/s;0.68 %;0.68 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+25/12/14 06:07;2.82 Mbit/s;1.8 Mbit/s;< 1 ms;5.74 ms;2.09 Mbit/s;1.64 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3 - PIX ALOG Tambore;;;;;
+25/12/14 05:07;2.63 Mbit/s;1.37 Mbit/s;1.45 ms;< 1 ms;2.88 Mbit/s;1.32 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 1;;;;;
+25/12/14 04:08;3.45 Mbit/s;2.04 Mbit/s;< 1 ms;1.45 ms;1.76 Mbit/s;1.91 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 3 - PIX ALOG Tambore;;;;;
+25/12/14 03:07;2.07 Mbit/s;1.57 Mbit/s;3.94 ms;13.59 ms;2.8 Mbit/s;1.62 Mbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2 - PIX ALOG Tambore;;;;;
+25/12/14 02:07;2.25 Mbit/s;1.78 Mbit/s;2.08 ms;1.87 ms;2.46 Mbit/s;1.67 Mbit/s;0.68 %;0.68 %;PTT Metro de Sao Paulo - Nodo 3;;;;;
+25/12/14 01:08;2.3 Mbit/s;1.06 Mbit/s;1.11 ms;3.14 ms;3.08 Mbit/s;986.61 kbit/s;0.0 %;0.0 %;PTT Metro de Sao Paulo - Nodo 2;;;;;
+;;;;;;;;;;25/12/14 15:21;316.08 ms;null;false;
+;;;;;;;;;;25/12/14 14:21;99.83 ms;null;false;
+;;;;;;;;;;25/12/14 10:21;114.75 ms;null;false;
+;;;;;;;;;;25/12/14 09:21;4.34 ms;null;false;
+;;;;;;;;;;25/12/14 08:21;3.49 ms;null;false;
+;;;;;;;;;;25/12/14 07:21;6.04 ms;null;false;
+;;;;;;;;;;25/12/14 06:21;4.06 ms;null;false;
+;;;;;;;;;;25/12/14 05:21;3.98 ms;null;false;
+;;;;;;;;;;25/12/14 04:21;3.66 ms;null;false;
+;;;;;;;;;;25/12/14 03:21;5.61 ms;null;false;
+;;;;;;;;;;25/12/14 02:21;15.21 ms;null;false;
+;;;;;;;;;;25/12/14 01:21;4.94 ms;null;false;
